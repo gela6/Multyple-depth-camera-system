@@ -1,3 +1,3 @@
 # Camera-stereo-calibration
 This is the project for my master's thesis on Faculty of mechanical engineering and naval architecture in Zagreb. 
-Working in C++ with RealSense, OpenCV, Open3D, Eigen ...
+I have used libraries: OpenCV, PCL, Open3D, Eigen, NumPy, Pandas, liberalsense(for RealSense cameras)

@@ -25,5 +25,7 @@ Step 6. 3D point clouds filtering
 Step 7. 3D point clouds stitching
 
 Step 8. 2D pictures labeling for a neural network
+In progress...
 
 Step 9. Learn neural network with YOLOv5  
+In progress...

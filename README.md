@@ -20,10 +20,10 @@ Step 4. Taking frames and converting them in 2D pictures and 3D point clouds
 
 Step 5. 2D pictures filtering
 
-Step 6. 2D pictures labeling for a neural network
+Step 6. 3D point clouds filtering
 
-Step 7. 3D point clouds filtering
+Step 7. 3D point clouds stitching
 
-Step 8. 3D point clouds stitching
+Step 8. 2D pictures labeling for a neural network
 
 Step 9. Learn neural network with YOLOv5  

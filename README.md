@@ -6,7 +6,7 @@ I have used libraries: OpenCV, PCL, Open3D, Eigen, liberalsense(for RealSense ca
 
 ## Project workflow
 
-### 1. Design and make a laboratory setup with three Intel RealSense D435 cameras.      
+#### 1. Design and make a laboratory setup with three Intel RealSense D435 cameras.      
 I have designed camera mounters in CATIA v5 and printed them out on 3D printer.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/167845597-a045333a-baa1-4c78-bd2a-e993177bfe81.png" />
@@ -19,28 +19,28 @@ I have designed camera mounters in CATIA v5 and printed them out on 3D printer.
 </p>
 
 
-### Step 2. Single camera calibration  
+#### Step 2. Single camera calibration  
 Each camera has to be calibrated. Here is an example of (one of) a picture taken for the process.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/167884116-37fb5a6c-d193-4bfb-9711-a0eff424f1a1.png" />
 </p>
 
 
-### Step 3. Stereo calibration      
+#### Step 3. Stereo calibration      
 This is the same extrinsic pose from 2 cameras.      
 
 
-### Step 4. Taking frames and converting them in 2D pictures and 3D point clouds      
+#### Step 4. Taking frames and converting them in 2D pictures and 3D point clouds      
 
 
-### Step 5. 2D pictures filtering
+#### Step 5. 2D pictures filtering
 
-### Step 6. 3D point clouds filtering
+#### Step 6. 3D point clouds filtering
 
-### Step 7. 3D point clouds stitching
+#### Step 7. 3D point clouds stitching
 
-### Step 8. 2D pictures labeling for a neural network       
+#### Step 8. 2D pictures labeling for a neural network       
 In progress...
 
-### Step 9. Learn neural network with YOLOv5  
+#### Step 9. Learn neural network with YOLOv5  
 In progress...

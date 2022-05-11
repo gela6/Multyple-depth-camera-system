@@ -37,7 +37,8 @@ This is the same extrinsic pose from 2 cameras.
 
 #### Step 6. 3D point clouds filtering
 
-#### Step 7. 3D point clouds stitching
+#### Step 7. 3D point clouds stitching       
+Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points)
 
 #### Step 8. 2D pictures labeling for a neural network       
 In progress...

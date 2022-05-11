@@ -13,7 +13,9 @@ Step 1. Design and make a laboratory setup with three Intel RealSense D435 camer
 
 
 Step 2. Single camera calibration             
-Each camera has to be calibrated. Here is an example of pictures taken for the process.
+Each camera has to be calibrated. Here is an example of (one of) a picture taken for the process.
+![Output1_screenshot_18 02 2022](https://user-images.githubusercontent.com/96240235/167884116-37fb5a6c-d193-4bfb-9711-a0eff424f1a1.png)
+
 
 
 Step 3. Stereo calibration 

@@ -4,3 +4,4 @@ I have used libraries: OpenCV, PCL, Open3D, Eigen, liberalsense(for RealSense ca
 
 # Project workflow
 
+Step 1. Design and make a laboratory setup with three Intel RealSense D435 cameras.

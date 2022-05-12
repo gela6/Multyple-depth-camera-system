@@ -56,13 +56,12 @@ Code can be seen in **saveframes** function in main.cpp
 #### Step 7. 3D point clouds stitching      
 Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points) to stith together clouds from 3 stereo cameras.      
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/168129409-e55160d6-fb34-400f-8066-715f30bf3bed.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/168130619-2839153d-c9ac-4153-a5b9-28efc9f92616.png" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/168129417-3f4233af-a754-4a24-9e71-4801b68e2731.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/168130623-115d017a-4a66-4f7b-bc00-979d64668ac9.png" />
 </p>
-
 
 
 #### Step 8. 2D pictures labeling for a neural network       

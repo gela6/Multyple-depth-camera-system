@@ -19,12 +19,14 @@ I have designed camera mounters in CATIA v5 and printed them out on 3D printer.
 </p>
 
 
+
 #### Step 2. Single camera calibration  
 Each camera has to be calibrated. Here is an example of (one of) a picture taken for the process.     
 All 9 pictures taken are in folder **cam1_calibration_images**(or Cam2, Cam3).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/167884116-37fb5a6c-d193-4bfb-9711-a0eff424f1a1.png" />
 </p>
+
 
 
 #### Step 3. Stereo calibration      
@@ -41,16 +43,20 @@ Result is Transformation Matrix between two cameras:
 #### Step 4. Taking frames and converting them in 2D pictures and 3D point clouds    
 Code can be seen in **saveframes** function in main.cpp
 
+
+
 #### Step 5. 2D pictures filtering      
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/168118883-9ef7aa84-80a9-4e18-8d1b-a142795b9cd8.png" />
 </p>
 
 
+
 #### Step 6. 3D point cloud filtering
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/168124090-e2c32eb9-e0ed-436b-8a0a-4c3ff4ddbd6f.png" />
 </p>
+
 
 
 #### Step 7. 3D point clouds stitching      
@@ -62,6 +68,7 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/168130623-115d017a-4a66-4f7b-bc00-979d64668ac9.png" />
 </p>
+
 
 
 #### Step 8. 2D pictures labeling for a neural network       

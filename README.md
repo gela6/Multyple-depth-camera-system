@@ -5,7 +5,7 @@ I have used libraries: OpenCV, PCL, Open3D, Eigen, liberalsense(for RealSense ca
 
 This project shows some 2D filtering and more 3D operations over point cloud like: Crop, Estimate normals, Axis aligned bounding box, Paint uniform, Remove radius outliers, Remove statistical outliers, Select by index, transform, Voxel down sample...       
 
-**The whole C++ code is visible in main.cpp**               
+**The whole C++ code is visible in main.cpp**   It's still under development!           
 
 
 ## Project workflow

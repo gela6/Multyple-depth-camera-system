@@ -33,7 +33,11 @@ This is the same extrinsic pose from 2 cameras.
 #### Step 4. Taking frames and converting them in 2D pictures and 3D point clouds      
 
 
-#### Step 5. 2D pictures filtering
+#### Step 5. 2D pictures filtering      
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/168118883-9ef7aa84-80a9-4e18-8d1b-a142795b9cd8.png" />
+</p>
+
 
 #### Step 6. 3D point clouds filtering
 

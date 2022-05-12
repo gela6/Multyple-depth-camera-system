@@ -1,6 +1,7 @@
 # Development of a multiple stereo-camera system (in C++) for generating datasets to train neural networks
 This is the project for my master's thesis on Faculty of mechanical engineering and naval architecture in Zagreb. 
 I have used libraries: OpenCV, PCL, Open3D, Eigen, liberalsense(for RealSense cameras) etc. in C++.       
+This project shows some 2D filtering and more 3D operations over point cloud like: Crop, Estimate normals, Axis aligned bounding box, Paint uniform, Remove radius outliers, Remove statistical outliers, Select by index, transform, Voxel down sample...
 **The whole C++ code is visible in main.cpp**               
 
 

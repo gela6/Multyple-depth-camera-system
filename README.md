@@ -74,6 +74,31 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 </p>
 
 
+##### Cedevita example       
+###### 1 Frame taken from each camera
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170508418-3d217042-edad-43a8-87ec-b5bc71097999.png" />
+</p>
+
+###### After Stereocalibration registration
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170508429-2ef862f6-f905-4a61-8dbc-eed730cd5ccf.png" />
+</p>
+
+###### After ICP registration
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170508440-737e9840-ca46-47c1-b5f9-7051f6db396a.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170508452-2b3280b6-0697-41ba-bfad-609fa261f782.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170508467-472a8cd5-6e9f-4c38-add8-cebd24559e04.png" />
+</p>
+
+
 
 #### Step 8. 2D pictures labeling with Roboflow    
 <p align="center">

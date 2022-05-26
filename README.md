@@ -76,7 +76,22 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 
 
 #### Step 8. 2D pictures labeling with Roboflow    
-In progress...
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170505975-4f10f13d-1837-4c91-a559-23f6a85702ab.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170506128-3b8cee76-ea8e-4476-8447-c4d83d080374.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170506281-2a87de29-5d90-4787-9940-c490c7468c20.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96240235/170506304-a0e11c64-f3f3-4a80-9926-02cd67b77f32.png" />
+</p>
+
 
 #### Step 9. Learn neural network with YOLOv5  
 

@@ -79,4 +79,8 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 In progress...
 
 #### Step 9. Learn neural network with YOLOv5  
-In progress...
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96240235/170451802-c7cdcf6b-172a-42a6-8f05-d424099d1e6d.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/> 
+</p>
+

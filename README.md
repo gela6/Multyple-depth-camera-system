@@ -3,7 +3,9 @@ This is the project for my master's thesis on Faculty of mechanical engineering 
 
 I have used libraries: OpenCV, PCL, Open3D, Eigen, liberalsense(for RealSense cameras) etc. in C++.          
 
-This project shows some 2D filtering and more 3D operations over point cloud like: Crop, Estimate normals, Axis aligned bounding box, Paint uniform, Remove radius outliers, Remove statistical outliers, Select by index, transform, Voxel down sample...       
+This project shows some 2D filtering and more 3D operations over point cloud like: Crop, Estimate normals, Axis aligned bounding box, Paint uniform, Remove radius outliers, Remove statistical outliers, Select by index, transform, Voxel down sample... 
+
+Object detection with YOLOv5(PyTorch).
 
 **The whole C++ code is visible in main.cpp**   It's still under development!           
 

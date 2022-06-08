@@ -129,3 +129,9 @@ Manual picture labelling is very time consuming job. But this way we can in 10 s
 <img src="https://user-images.githubusercontent.com/96240235/170451802-c7cdcf6b-172a-42a6-8f05-d424099d1e6d.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/> 
 </p>
 
+
+#### 3D Object Reconstruction     
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96240235/172574273-3e32fc80-344b-4c8b-a20a-0c309142d9f0.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/> 
+</p>

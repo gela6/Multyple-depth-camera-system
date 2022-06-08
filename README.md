@@ -51,7 +51,7 @@ Code can be seen in **saveframes** function in main.cpp
 
 
 
-#### Step 5. 2D pictures filtering      
+#### Step 5. 2D segmentation        
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/168118883-9ef7aa84-80a9-4e18-8d1b-a142795b9cd8.png" />
 </p>

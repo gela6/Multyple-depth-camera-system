@@ -15,13 +15,13 @@ Object detection with YOLOv5(PyTorch).
 #### 1. Design and make a laboratory setup with three Intel RealSense D435 cameras.      
 I have designed camera mounters in CATIA v5 and printed them out on 3D printer.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/167845597-a045333a-baa1-4c78-bd2a-e993177bfe81.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/167845597-a045333a-baa1-4c78-bd2a-e993177bfe81.png" width="500" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/167845633-7793631e-af89-4836-9aa9-8ab96b884bf6.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/167845633-7793631e-af89-4836-9aa9-8ab96b884bf6.png" width="500" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/167847945-50d6187c-d999-4552-99e9-e49f93237d7a.jpeg" />
+  <img src="https://user-images.githubusercontent.com/96240235/167847945-50d6187c-d999-4552-99e9-e49f93237d7a.jpeg" width="500" />
 </p>
 
 
@@ -30,7 +30,7 @@ I have designed camera mounters in CATIA v5 and printed them out on 3D printer.
 Each camera has to be calibrated. Here is an example of (one of) a picture taken for the process.     
 All 9 pictures taken are in folder **cam1_calibration_images**(or Cam2, Cam3).
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/167884116-37fb5a6c-d193-4bfb-9711-a0eff424f1a1.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/167884116-37fb5a6c-d193-4bfb-9711-a0eff424f1a1.png" width="500" />
 </p>
 
 

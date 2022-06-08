@@ -102,7 +102,10 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 
 
 
-#### Step 8. Automatic 2D pictures labeling with inRange() and findcountours()    
+#### Step 8. Automatic 2D pictures labeling with inRange() and findcountours()     
+
+Manual picture labelling is very time consuming job. But this way we can in 10 seconds get 900 labelled images (30fps x 3 cameras x 10 sec = 900 images)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/172564857-860715e0-e6d7-47fb-bd7a-4f7866553ff9.jpg" />
 </p>

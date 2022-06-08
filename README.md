@@ -102,21 +102,21 @@ Using stereo calibrated extrinsic coefficients and ICP (Iterative Closest Points
 
 
 
-#### Step 8. 2D pictures labeling with Roboflow    
+#### Step 8. Automatic 2D pictures labeling with inRange() and findcountours()    
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/170505975-4f10f13d-1837-4c91-a559-23f6a85702ab.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/172564857-860715e0-e6d7-47fb-bd7a-4f7866553ff9.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/170506128-3b8cee76-ea8e-4476-8447-c4d83d080374.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/172564878-71e0efc2-466a-4db0-a59b-d781bd1ae47b.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/170506281-2a87de29-5d90-4787-9940-c490c7468c20.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/172566466-93ce2507-bc2b-4aa3-ba22-07e5308e7284.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96240235/170506304-a0e11c64-f3f3-4a80-9926-02cd67b77f32.png" />
+  <img src="https://user-images.githubusercontent.com/96240235/172566280-5dc18e4a-d806-4ac2-887f-54885d973d0a.jpg" />
 </p>
 
 
